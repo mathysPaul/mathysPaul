@@ -21,138 +21,162 @@
 
 ## ⚡ Stats ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=mathyspaul&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=0" height="200" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyspaul&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&border_radius=0" height="200" alt="languages graph"  />
+<style>
+table {
+width: 100%;
+}
+</style>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mathyspaul&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=0" height="200" alt="stats graph"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyspaul&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&border_radius=0" height="200" alt="languages graph"  />
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## 🛠️ Languages and Tools 🛠️
 
 <table>
-  <tr>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Programming
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Web
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Design
-			</h4>
-    </td>
-  </tr>
-  <tr>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="32" height="32" />
-				<img src="https://static.cdnlogo.com/logos/a/95/adobe-xd.svg" alt="xd" width="32" height="32" />
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Data Base
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			AI & Data Science
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			API
-			</h4>
-    </td>
-  </tr>
-  <tr>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="32" height="32" />
-				<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Mobile
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			IOT
-			</h4>
-    </td>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			DevOps
-			</h4>
-    </td>
-  </tr>
-  <tr>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32" />
-				<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="32" height="32" />
-    </td>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" />
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-      <h4 style="margin: 8px; font-weight: 300; font-size: 1.25rem;">
-			Project Management
-			</h4>
-    </td>
-  </tr>
-  <tr>
-    <td>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
-    </td>
-  </tr>
+<tr>
+<td>
+<h4>
+Programming
+</h4>
+</td>
+<td>
+<h4>
+Web
+</h4>
+</td>
+<td>
+<h4>
+Design
+</h4>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="32" height="32" />
+<img src="https://static.cdnlogo.com/logos/a/95/adobe-xd.svg" alt="xd" width="32" height="32" />
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td>
+<h4>
+Data Base
+</h4>
+</td>
+<td>
+<h4>
+AI & Data Science
+</h4>
+</td>
+<td>
+<h4>
+API
+</h4>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="32" height="32" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td>
+<h4>
+Mobile
+</h4>
+</td>
+<td>
+<h4>
+IOT
+</h4>
+</td>
+<td>
+<h4>
+DevOps
+</h4>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="32" height="32" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32" />
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td>
+<h4>
+Project Management
+</h4>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
 </table>
 
 ## 🏆 Github Profile Trophy:
