@@ -21,11 +21,6 @@
 
 ## ⚡ Stats ⚡
 
-<style>
-table {
-width: 100%;
-}
-</style>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mathyspaul&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=0" height="200" alt="stats graph"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyspaul&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&border_radius=0" height="200" alt="languages graph"  />
 
