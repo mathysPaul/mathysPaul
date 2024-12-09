@@ -41,12 +41,12 @@
 <tr>
 <td>
 <h4>
-Programming
+Web
 </h4>
 </td>
 <td>
 <h4>
-Web
+Programming
 </h4>
 </td>
 <td>
